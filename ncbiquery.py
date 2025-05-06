@@ -5,9 +5,9 @@ import random
 
 def query(q, returntype):
     headers = {
-        "User-Agent": "adartley123@gmail.com"
+        "User-Agent": "xxx.com"
     }
-    urlq = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=nucleotide&id={q}&retmode=json&apikey=985d19c2caa6e79cb923755e5042829cc30"
+    urlq = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=nucleotide&id={q}&retmode=json&apikey=xxx"
     for attempt in range(5):
         try:
             response = requests.get(urlq, headers=headers)
