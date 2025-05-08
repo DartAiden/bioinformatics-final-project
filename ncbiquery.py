@@ -13,6 +13,7 @@ def query(q, returntype):
             response = requests.get(urlq, headers=headers) #Fetch profile from NCBI
             response.raise_for_status() #Return error if there is one 
             data = response.json() #Convert to JSON
+            print(data)
             uid = data["result"]["uids"][0] 
             return data['result'][uid][returntype] #Extract protein
         except Exception as e:
