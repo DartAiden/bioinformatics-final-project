@@ -1,69 +1,69 @@
 Signature,Signature count
-Cytoplasmic domain,30
-Homing endonucleases,32
-LAGLIDADG_1,11
-INTRON-ENCODED ENDONUCLEASE AI3-RELATED,9
 Transmembrane region,37
 Non cytoplasmic domain,33
-GIY-YIG,5
+Homing endonucleases,32
+Cytoplasmic domain,30
+LAGLIDADG_1,11
+disorder_prediction,11
+Signal peptide N-region,9
+Signal peptide H-region,9
+Signal peptide C-region,9
+Signal Peptide,9
+INTRON-ENCODED ENDONUCLEASE AI3-RELATED,9
 Coil,8
+GIY-YIG endonuclease,6
+GIY-YIG,5
 GIY_YIG,5
 uri_9,4
-GIY-YIG endonuclease,6
-disorder_prediction,11
-intein_16,2
-Signal peptide N-region,9
-SignalP-noTM,2
-Signal peptide H-region,9
-Signal Peptide,9
-Signal peptide C-region,9
-NADH-UBIQUINONE OXIDOREDUCTASE CHAIN 4,1
-ssDNA viruses,1
-Microviridae F protein,1
-Phage_F,1
-PROTEIN TAR1,1
-NUMOD1,1
-NADH DEHYDROGENASE,3
 Proton_antipo_M,3
-DNA_pol_B_2,1
-Ribonuclease H-like,1
-DNA/RNA polymerases,1
-Phage_GPA,1
+NADH DEHYDROGENASE,3
 Mononeg_RNA_pol,3
-Immunoglobulins,1
-igv1_8,1
-Immunoglobulin,1
-IMMUNOGLOBULIN HEAVY CHAIN,1
-LAGLIDADG_2,1
-PNPLA,1
-Patatin,1
-FabD/lysophospholipase-like,1
-CALCIUM-INDEPENDENT PHOSPHOLIPASE A2-GAMMA,1
-Cytosolic phospholipase A2 catalytic domain,1
-Mononeg_mRNAcap,2
-INTRON-ENCODED DNA ENDONUCLEASE AI2A-RELATED,1
-Ribosomal_S8,1
-40S RIBOSOMAL PROTEIN S15A,1
-PRK04034.1,1
-Ribosomal protein S8,1
-Ribosomal protein S11,1
-Ribosomal_S11,1
-RIBOSOMAL_S11,1
-40S RIBOSOMAL PROTEIN S14/30S RIBOSOMAL PROTEIN S11,1
-RPS11p_RPS11a_RPS14e_RPS11o,1
-Translational machinery components,1
-C166,1
+SignalP-noTM,2
 RDRP_SSRNA_NEG_NONSEG,2
-LAGLIDADG_3,1
-INTEIN_ENDONUCLEASE,1
-40S RIBOSOMAL PROTEIN S6,1
+Mononeg_mRNAcap,2
+intein_16,2
+UstYa,1
+TRANSMEMBRANE PROTEIN,1
+Translational machinery components,1
+ssDNA viruses,1
+Spurious_ORF_34,1
+RPS11p_RPS11a_RPS14e_RPS11o,1
+Ribosomal_S8,1
 Ribosomal_S6e_2,1
 RIBOSOMAL_S6E,1
 Ribosomal_S6e,1
-Microvir_H,1
-Minor_spike_H,1
-UstYa,1
+Ribosomal_S11,1
+RIBOSOMAL_S11,1
+Ribosomal protein S8,1
+Ribosomal protein S11,1
+Ribonuclease H-like,1
+PROTEIN TAR1,1
+PRK04034.1,1
+PNPLA,1
+Phage_GPA,1
+Phage_F,1
+Patatin,1
 NUMOD3,1
+NUMOD1,1
+NADH-UBIQUINONE OXIDOREDUCTASE CHAIN 4,1
+Minor_spike_H,1
+Microviridae F protein,1
+Microvir_H,1
+LAGLIDADG_3,1
+LAGLIDADG_2,1
+INTRON-ENCODED DNA ENDONUCLEASE AI2A-RELATED,1
+INTEIN_ENDONUCLEASE,1
+Immunoglobulins,1
+IMMUNOGLOBULIN HEAVY CHAIN,1
+Immunoglobulin,1
+igv1_8,1
 grpIintron_endo,1
-TRANSMEMBRANE PROTEIN,1
-Spurious_ORF_34,1
+FabD/lysophospholipase-like,1
+DNA_pol_B_2,1
+DNA/RNA polymerases,1
+Cytosolic phospholipase A2 catalytic domain,1
+CALCIUM-INDEPENDENT PHOSPHOLIPASE A2-GAMMA,1
+C166,1
+40S RIBOSOMAL PROTEIN S6,1
+40S RIBOSOMAL PROTEIN S15A,1
+40S RIBOSOMAL PROTEIN S14/30S RIBOSOMAL PROTEIN S11,1

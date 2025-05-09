@@ -1,9 +1,9 @@
-,Query,Hit,Motif
-0,DS1-1_DN50_c0_g1_i1.p1,WPR16894.1,conserved polymerase motif B
-1,DS1-1_DN50_c0_g1_i1.p1,WPR16894.1,conserved polymerase motif B
-2,DS1-1_DN50_c0_g1_i1.p1,WPR16894.1,conserved polymerase motif C
-3,DS1-1_DN50_c0_g1_i1.p1,WPR16894.1,conserved polymerase motif C
-4,DS1-1_DN57_c0_g1_i1.p1,WPR16894.1,conserved polymerase motif A
-5,DS1-1_DN57_c0_g1_i1.p1,WPR16894.1,conserved polymerase motif A
-6,DS1-1_DN675_c0_g1_i1.p1,7X8Z_H,Ig strand B
-7,DS1-1_DN675_c0_g1_i1.p1,7X8Z_H,Ig strand C
+Query,Hit,Motif
+DS1-1_DN50_c0_g1_i1.p1,WPR16894.1,conserved polymerase motif B
+DS1-1_DN50_c0_g1_i1.p1,WPR16894.1,conserved polymerase motif B
+DS1-1_DN50_c0_g1_i1.p1,WPR16894.1,conserved polymerase motif C
+DS1-1_DN50_c0_g1_i1.p1,WPR16894.1,conserved polymerase motif C
+DS1-1_DN57_c0_g1_i1.p1,WPR16894.1,conserved polymerase motif A
+DS1-1_DN57_c0_g1_i1.p1,WPR16894.1,conserved polymerase motif A
+DS1-1_DN675_c0_g1_i1.p1,7X8Z_H,Ig strand B
+DS1-1_DN675_c0_g1_i1.p1,7X8Z_H,Ig strand C
