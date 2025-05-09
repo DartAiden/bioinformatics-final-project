@@ -1,0 +1,39 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-28AA720D0D381F44-100046935BFBD336
+#datatype	feats
+#status	0
+#Start time	2025-05-08T21:55:33	Run time	0:00:00:09
+#status	success
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#6 - >DS1-1_DN57_c0_g1_i1.p1	generic	conserved polymerase motif A	L102,F103,L104,S105,G106,D107,Y108,E109,S110,A111,T112,D113,Y114,L115,S116	15	15	438033
+Q#11 - >DS1-1_DN50_c0_g1_i1.p1	generic	conserved polymerase motif B	Q30,M31,M32,G33,S34,V35,L36,S37,F38,P39,L40,L41,C42,L43,Q44,N45,Y46,A48,T49,T50,Y51,I52,L53	23	23	438033
+Q#11 - >DS1-1_DN50_c0_g1_i1.p1	generic	conserved polymerase motif C	R56,P57,M58,L59,N61,G62,D63,D64,L65,L66,T67,R68,V69,T70	14	14	438033
+Q#12 - >DS1-1_DN286_c0_g1_i1.p1	generic	active site	Y37,Y48,G50,R58,Y63,E124	6	6	198392
+Q#12 - >DS1-1_DN286_c0_g1_i1.p1	generic	catalytic site	R58,E124	2	2	198392
+Q#12 - >DS1-1_DN286_c0_g1_i1.p1	generic	metal binding site	E124	1	1	198392
+Q#12 - >DS1-1_DN286_c0_g1_i1.p1	generic	GIY-YIG motif/motif A	G35,V36,Y37,Y48,V49,G50	6	6	198392
+Q#32 - >DS1-1_DN90_c0_g1_i1.p1	generic	active site	Y37,Y48,G50,R58,Y63,E124	6	6	198392
+Q#32 - >DS1-1_DN90_c0_g1_i1.p1	generic	catalytic site	R58,E124	2	2	198392
+Q#32 - >DS1-1_DN90_c0_g1_i1.p1	generic	metal binding site	E124	1	1	198392
+Q#32 - >DS1-1_DN90_c0_g1_i1.p1	generic	GIY-YIG motif/motif A	G35,V36,Y37,Y48,V49,G50	6	6	198392
+Q#40 - >DS1-1_DN472_c0_g1_i1.p1	generic	active site	Y78,Y89,G91,R99,Y103,E146	6	6	198392
+Q#40 - >DS1-1_DN472_c0_g1_i1.p1	generic	catalytic site	R99,E146	2	2	198392
+Q#40 - >DS1-1_DN472_c0_g1_i1.p1	generic	metal binding site	E146	1	1	198392
+Q#40 - >DS1-1_DN472_c0_g1_i1.p1	generic	GIY-YIG motif/motif A	G76,V77,Y78,Y89,V90,G91	6	6	198392
+Q#49 - >DS1-1_DN205_c0_g1_i1.p1	generic	active site	Y5,G7,R15,Y20,E79	6	5	198392
+Q#49 - >DS1-1_DN205_c0_g1_i1.p1	generic	catalytic site	R15,E79	2	2	198392
+Q#49 - >DS1-1_DN205_c0_g1_i1.p1	generic	metal binding site	E79	1	1	198392
+Q#63 - >DS1-1_DN675_c0_g1_i1.p1	generic	Ig strand B	L43-C47	5	5	409370
+Q#63 - >DS1-1_DN675_c0_g1_i1.p1	generic	Ig strand C	A58-V62	5	5	409370
+Q#89 - >DS1-1_DN376_c0_g1_i1.p1	generic	active site	Y29,Y40,G42,R50,Y53,E98	6	6	198392
+Q#89 - >DS1-1_DN376_c0_g1_i1.p1	generic	catalytic site	R50,E98	2	2	198392
+Q#89 - >DS1-1_DN376_c0_g1_i1.p1	generic	metal binding site	E98	1	1	198392
+Q#89 - >DS1-1_DN376_c0_g1_i1.p1	generic	GIY-YIG motif/motif A	G27,V28,Y29,Y40,V41,G42	6	6	198392
+Q#91 - >DS1-1_DN341_c0_g1_i1.p1	generic	metal binding site	E107	1	1	198392
+Q#93 - >DS1-1_DN752_c0_g1_i1.p1	generic	active site	Y92,Y103,G105,R113,Y117	6	5	198392
+Q#93 - >DS1-1_DN752_c0_g1_i1.p1	generic	GIY-YIG motif/motif A	G90,V91,Y92,Y103,I104,G105	6	6	198392
+Q#99 - >DS1-1_DN778_c0_g1_i1.p1	generic	active site	Y14,Y25,G27,R35,Y39,E86	6	6	198392
+Q#99 - >DS1-1_DN778_c0_g1_i1.p1	generic	catalytic site	R35,E86	2	2	198392
+Q#99 - >DS1-1_DN778_c0_g1_i1.p1	generic	metal binding site	E86	1	1	198392
+Q#99 - >DS1-1_DN778_c0_g1_i1.p1	generic	GIY-YIG motif/motif A	G12,V13,Y14,Y25,V26,G27	6	6	198392

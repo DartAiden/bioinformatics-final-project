@@ -1,0 +1,60 @@
+Query,Type,Title,coordinates,complete size,mapped size,source domain
+UVX73923.1,specific,putative active site,"Y6,Y17,G19,R27,H31,E79,N91",7,7,198384
+UVX73923.1,specific,catalytic site,"R27,E79",2,2,198384
+UVX73923.1,specific,putative metal binding site,E79,1,1,198384
+UVX73923.1,specific,GIY-YIG motif/motif A,"G4,V5,Y6,Y17,V18,G19",6,6,198384
+UVX74785.1,specific,putative active site,"Y6,Y17,G19,R27,H31,E79,N91",7,7,198384
+UVX74785.1,specific,catalytic site,"R27,E79",2,2,198384
+UVX74785.1,specific,putative metal binding site,E79,1,1,198384
+UVX74785.1,specific,GIY-YIG motif/motif A,"G4,V5,Y6,Y17,V18,G19",6,6,198384
+DAR02120.1,generic,active site,"Y6,Y17,G19,R27,H31,E77",6,6,198384
+DAR02120.1,generic,catalytic site,"R27,E77",2,2,198384
+DAR02120.1,generic,metal binding site,E77,1,1,198384
+DAR02120.1,generic,GIY-YIG motif/motif A,"G4,I5,Y6,Y17,I18,G19",6,6,198384
+XOR22607.1,generic,active site,"G53,G54,R56,S86,D215",5,5,132854
+XOR22607.1,generic,nucleophile elbow,"G84,T85,S86,T87,G88",5,5,132854
+WPR16894.1,generic,catalytic residues,"D57,G145,D146,D147",4,4,438033
+WPR16894.1,generic,conserved polymerase motif A,"Y52,L53,L54,S55,G56,D57,Y58,E59,S60,A61,T62,D63,T64,L65,S66",15,15,438033
+WPR16894.1,generic,conserved polymerase motif B,"Q113,M114,M115,G116,S117,L118,L119,S120,F121,P122,L123,L124,C125,L126,Q127,N128,Y129,A131,T132,T133,Y134,I135,L136",23,23,438033
+WPR16894.1,generic,conserved polymerase motif C,"R139,P140,M141,L142,N144,G145,D146,D147,L148,A149,T150,R151,V152,T153",14,14,438033
+WPR16894.1,generic,catalytic residues,"D57,G145,D146,D147",4,4,438033
+WPR16894.1,generic,conserved polymerase motif A,"Y52,L53,L54,S55,G56,D57,Y58,E59,S60,A61,T62,D63,T64,L65,S66",15,15,438033
+WPR16894.1,generic,conserved polymerase motif B,"Q113,M114,M115,G116,S117,L118,L119,S120,F121,P122,L123,L124,C125,L126,Q127,N128,Y129,A131,T132,T133,Y134,I135,L136",23,23,438033
+WPR16894.1,generic,conserved polymerase motif C,"R139,P140,M141,L142,N144,G145,D146,D147,L148,A149,T150,R151,V152,T153",14,14,438033
+7X8Z_H,specific,heterodimer interface,"Q67,K71,W75,Y123,W139,G140",6,6,409370
+7X8Z_H,specific,antigen binding site,"K61,Y78,G127",3,3,409370
+7X8Z_H,specific,intrachain IgC domain interface,"G37,L39,T144,T146,S148",5,5,409370
+7X8Z_H,specific,Ig strand A,Q31-E34,4,4,409370
+7X8Z_H,specific,Ig strand A',G38-Q41,4,4,409370
+7X8Z_H,specific,Ig strand B,G44-A52,9,9,409370
+7X8Z_H,specific,Ig strand C,K61-A68,8,8,409370
+7X8Z_H,specific,Ig strand C',L73-S80,8,8,409370
+7X8Z_H,specific,"Ig strand C""",D84-Y88,5,5,409370
+7X8Z_H,specific,Ig strand D,R95-D101,7,7,409370
+7X8Z_H,specific,Ig strand E,S106-N112,7,7,409370
+7X8Z_H,specific,Ig strand F,A120-G127,8,8,409370
+7X8Z_H,specific,Ig strand G,V138-S148,11,11,409370
+7X8Z_H,specific,FR1,Q31-A52,22,22,409370
+7X8Z_H,specific,CDR1,S53-Y60,7,8,409370
+7X8Z_H,specific,FR2,K61-G72,12,12,409370
+7X8Z_H,specific,CDR2,L73-A89,14,17,409370
+7X8Z_H,specific,FR3,R95-R126,32,32,409370
+7X8Z_H,specific,CDR3,G127-D137,3,11,409370
+7X8Z_H,specific,FR4,V138-S148,11,11,409370
+7X8Z_H,specific,heterodimer interface,"F158,P159,L160,A173,L177,K179,H200,F202,V205,L206,S213,L214,S215,V217,K245",15,15,409622
+7X8Z_H,specific,Ig strand A,G154-A161,8,8,409622
+7X8Z_H,specific,Ig strand B,A172-K179,8,8,409622
+7X8Z_H,specific,Ig strand C,P185-N191,7,7,409622
+7X8Z_H,specific,Ig strand C',G193-A194,2,2,409622
+7X8Z_H,specific,Ig strand D,H200-L206,7,7,409622
+7X8Z_H,specific,Ig strand E,Y212-V220,9,9,409622
+7X8Z_H,specific,Ig strand F,T229-H236,8,8,409622
+7X8Z_H,specific,Ig strand G,T241-K246,6,6,409622
+YP_010509584.1,generic,active site,"Y27,Y38,G40,R48,H52,E97",6,6,198384
+YP_010509584.1,generic,catalytic site,"R48,E97",2,2,198384
+YP_010509584.1,generic,metal binding site,E97,1,1,198384
+YP_010509584.1,generic,GIY-YIG motif/motif A,"G25,V26,Y27,Y38,I39,G40",6,6,198384
+UVX73923.1,specific,putative active site,"Y6,Y17,G19,R27,H31,E79,N91",7,7,198384
+UVX73923.1,specific,catalytic site,"R27,E79",2,2,198384
+UVX73923.1,specific,putative metal binding site,E79,1,1,198384
+UVX73923.1,specific,GIY-YIG motif/motif A,"G4,V5,Y6,Y17,V18,G19",6,6,198384
