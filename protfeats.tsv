@@ -1,9 +1,3 @@
-#Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-9ABAC4BBBC5227B-393ACE40FAEFE127
-#datatype	feats
-#status	0
-#Start time	2025-05-08T22:23:08	Run time	0:00:00:31
-#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#4 - UVX73923.1	specific	putative active site	Y6,Y17,G19,R27,H31,E79,N91	7	7	198384

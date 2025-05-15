@@ -8,5 +8,6 @@ hitfeats = pd.read_csv(r'feats\hitfeats.csv')
 queryfeats = pd.read_csv(r'feats\queryfeats.csv')
 
 for i in hitdb.keys():
-    hitfeats.loc[hitfeats["Query"] == i]
+    temp = hitfeats.loc[hitfeats["Query"] == i]
+    for j in temp:
     
